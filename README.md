@@ -1,3 +1,3 @@
 # ese2025
 ese2025 course work on embedded Linux C/C++  and the Yocto prroject
-emnbedded operationg system is really good.
+emnbedded operationg system is really really good
